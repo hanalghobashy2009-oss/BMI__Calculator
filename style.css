@@ -1,0 +1,53 @@
+body{
+  background-color : #fdfdb6;
+  font-family: monospace ;
+}
+h1{
+  color : #fe8096 ;
+  font-size: 45px ;
+  text-align : center ;
+}
+label{
+  color : hotpink;
+  text-align : left;
+  font-size : 15px ;
+}
+
+.H::placeholder{
+  color : #f09fad ;
+}
+.W::placeholder{
+  color : #f09fad ;
+}
+button{
+  color : #fdfdb6 ;
+  background-color : #f57a8f ;
+  padding : 5px 20px ;
+  border-color : #f8c4de  ;
+  border-radius: 5px ;
+  font-size : 16px ;
+}
+.H{
+  border-color : pink ;
+  border-radius : 5px ;
+  padding :5px 40px ;
+  margin-top : 5px;
+  color : #f57a8f ;
+  font-size : 15px ;
+}
+.W{
+  border-color : pink ;
+  border-radius : 5px ;
+  padding :5px 40px ;
+  margin-top : 5px ;
+  color : #f57a8f ;
+  font-size : 15px ;
+}
+p{
+  color : hotpink ;
+  font-size : 15px ;
+}
+.row{
+  margin-bottom : 10px ;
+  margin-top : 15px
+}
